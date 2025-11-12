@@ -23,12 +23,6 @@ Desenvolvedor backend
 ![Intellij](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucaspmntl&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspmntl&layout=compact&theme=radical)
-
 ## 📫 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pimentel-7117121b5/)
@@ -36,9 +30,9 @@ Desenvolvedor backend
 
 ## 💼 Projetos em Destaque
 
-[![Sistema de chamados técnicos](https://github-readme-stats.vercel.app/api/pin/?username=Lucaspmntl&repo=sistemas-chamados-ti&theme=radical)](https://github.com/Lucaspmntl/sistemas-chamados-ti)
-[![API de produtos](https://github-readme-stats.vercel.app/api/pin/?username=Lucaspmntl&repo=Store-API&theme=radical)](https://github.com/Lucaspmntl/Store-API)
-[![API de lista de jogos](https://github-readme-stats.vercel.app/api/pin/?username=Lucaspmntl&repo=Game-list-API&theme=radical)](https://github.com/Lucaspmntl/Game-list-API)
+![Sistema de chamados técnicos](https://img.shields.io/badge/Sistema%20de%20Chamados%20T%C3%A9cnicos-181717?style=for-the-badge&logo=github&logoColor=white)
+![API de produtos](https://img.shields.io/badge/API%20de%20Produtos-181717?style=for-the-badge&logo=github&logoColor=white)
+![API de lista de jogos](https://img.shields.io/badge/API%20de%20Produtos-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
