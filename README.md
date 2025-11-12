@@ -1,4 +1,4 @@
-# Prazer, Lucas Pimentel 👋
+# Prazer, Lucas 👋
 
 ## 🚀 Sobre mim
 
