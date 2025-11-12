@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor e bacharelando em ciência da computação.
+Desenvolvedor backend
 
 - 🌍 Localizado em Macapá, Amapá, Brasil
 - 👩🏻‍💻 Cursando Ciência da Computação, Universidade Federal do Amapá
