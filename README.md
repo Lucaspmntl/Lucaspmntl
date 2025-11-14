@@ -8,7 +8,7 @@ Desenvolvedor backend
 - 👩🏻‍💻 Cursando Ciência da Computação, Universidade Federal do Amapá
 - 💼 Atualmente estagiando em Polícia Científica do Amapá
 - 🌱 Aprendendo Java e tecnologias frontEnd
-- ⚡ Curiosidades: Refatoro por diversão e linguagens de tipagem dinâmica me dão dor de cabeça
+- ⚡ Curiosidade: Linguagens de tipagem dinâmica me dão dor de cabeça
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -37,5 +37,3 @@ Desenvolvedor backend
 ---
 
 ⚠️ *Este README foi refatorado 17 vezes antes de ir pro ar.*
-
-⭐️ From [Lucaspmntl](https://github.com/Lucaspmntl)
