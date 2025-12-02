@@ -1,4 +1,4 @@
-# Prazer, Lucas 👋
+# Prazer, Lucas 🧑🏼
 
 ## 🚀 Sobre mim
 
@@ -6,7 +6,6 @@ Desenvolvedor backend
 
 - 🌍 Localizado em Macapá, Amapá, Brasil
 - 👩🏻‍💻 Cursando Ciência da Computação, Universidade Federal do Amapá
-- 💼 Atualmente estagiando em Polícia Científica do Amapá
 - 🌱 Aprendendo Java e tecnologias frontEnd
 - ⚡ Curiosidade: Linguagens de tipagem dinâmica me dão dor de cabeça
 
