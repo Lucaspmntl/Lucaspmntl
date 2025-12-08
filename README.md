@@ -31,7 +31,7 @@ Desenvolvedor backend
 
 [![Sistema de chamados técnicos](https://img.shields.io/badge/Sistema%20de%20Chamados%20T%C3%A9cnicos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucaspmntl/sistemas-chamados-ti)
 [![API de produtos](https://img.shields.io/badge/API%20de%20Produtos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucaspmntl/Store-API)
-[![API de lista de jogos](https://img.shields.io/badge/API%20de%20Jogos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucaspmntl/Game-list-API)
+[![Sistema de Listas de Jogos](https://img.shields.io/badge/API%20de%20Jogos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucaspmntl/Game-list-API)
 
 ---
 
