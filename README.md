@@ -6,7 +6,7 @@ Desenvolvedor backend
 
 - 🌍 Localizado em Macapá, Amapá, Brasil
 - 👩🏻‍💻 Cursando Ciência da Computação, Universidade Federal do Amapá
-- 🌱 Aprendendo Java e tecnologias frontEnd
+- 🌱 Aprofundando conhecimentos em Java & Cloud
 - ⚡ Curiosidade: Linguagens de tipagem dinâmica me dão dor de cabeça
 
 ## 🛠️ Tecnologias & Ferramentas
