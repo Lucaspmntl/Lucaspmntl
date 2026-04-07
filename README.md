@@ -11,26 +11,28 @@ Desenvolvedor backend
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreeSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Intellij](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ## 📫 Entre em contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pimentel-7117121b5/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-pimentel-7117121b5/)
 [![Email](https://img.shields.io/badge/-Lucaspimentel808@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Lucaspimentel808@gmail.com)
 
 ## 💼 Projetos em Destaque
 
 [![Sistema de chamados técnicos](https://img.shields.io/badge/Sistema%20de%20Chamados%20T%C3%A9cnicos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucaspmntl/sistemas-chamados-ti)
 [![API de produtos](https://img.shields.io/badge/API%20de%20Produtos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucaspmntl/Store-API)
-[![Sistema de Listas de Jogos](https://img.shields.io/badge/API%20de%20Jogos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucaspmntl/Game-list-API)
+[![Orquestador de logística regional](https://img.shields.io/badge/Orquestrador%20de%20logística%20regional-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucaspmntl/northfreight-orchestrator)
 
 ---
 
