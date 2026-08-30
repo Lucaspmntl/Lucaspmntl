@@ -6,7 +6,7 @@ Desenvolvedor backend
 
 - 🌍 Localizado em Macapá, Amapá, Brasil
 - 👩🏻‍💻 Cursando Ciência da Computação, Universidade Federal do Amapá
-- 🌱 Aprofundando conhecimentos em Java & Cloud
+- 🌱 Aprofundando conhecimentos em Automações e IA
 - ⚡ Curiosidade: Linguagens de tipagem dinâmica me dão dor de cabeça
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -18,10 +18,11 @@ Desenvolvedor backend
 ![PostgreeSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Intellij](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4641?style=flat-square&logo=n8n&logoColor=white)
+![Jetbrains IDE's](https://img.shields.io/badge/-Jetbrains%20IDE's-000000?style=flat-square&logo=jetbrains&logoColor=white)
+
 
 ## 📫 Entre em contato
 
